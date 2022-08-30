@@ -7,8 +7,5 @@
   "license": "MIT",
   "scripts": {
     "deploy": "sls deploy"
-  },
-  "dependencies": {
-    "@faker-js/faker": "7.4.0"
   }
 }
